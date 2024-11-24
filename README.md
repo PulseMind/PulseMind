@@ -2,13 +2,13 @@
 
 ###
 
-<p align="center">✨ UI/UX Designer & FullStack Developer ✨</p>
-
-###
-
 <div align="center">
   <img height="169" src="https://i.imgur.com/aksjOcd.png"  />
 </div>
+
+###
+
+<p align="center">✨ UI/UX Designer & FullStack Developer ✨</p>
 
 ###
 
