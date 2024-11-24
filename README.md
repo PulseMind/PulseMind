@@ -3,12 +3,16 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.imgur.com/w5JlVRp.png" alt="PULSEMIND BRAND LOGO"  />
+  <img height="169" src="https://i.imgur.com/aksjOcd.png"  />
 </div>
 
 ###
 
-<p align="center">🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>💻 Experience: I have been programming for over 5 years.<br>⚙️ Tech stack: Skilled in React, Next.js, Remix, Java, Spring Boot, and building Discord bots and mobile apps.<br>🐧 Fun fact: I use Linux daily, specifically Manjaro—it’s my favorite playground!</p>
+<p align="center">✨ UI/UX Designer & FullStack Developer ✨</p>
+
+###
+
+<p align="center">🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>💻 Experience: I have been programming for over 5 years.<br>⚙️ Tech stack: Skilled in React, Next.js, Remix, Java, Spring Boot, and building Discord bots and mobile apps.<br>🐧 Fun fact: I use Linux daily, specifically Manjaro - it’s my favorite playground!</p>
 
 ###
 
@@ -55,6 +59,6 @@
 
 ###
 
-<h2 align="center"></h2>
+<img align="right" height="200" src="https://i.imgur.com/KHI5gyv.png"  />
 
 ###
