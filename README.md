@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.imgur.com/aksjOcd.png"  />
+  <img height="150" src="https://i.imgur.com/w5JlVRp.png" alt="PULSEMIND BRAND LOGO"  />
 </div>
 
 ###
