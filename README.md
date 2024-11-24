@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<img align="right" height="200" src="https://i.imgur.com/KHI5gyv.png"  />
-
-###
