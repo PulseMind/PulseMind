@@ -1,5 +1,3 @@
-<h2 align="center">Hi. I'm PulseMind 👋!</h2>
-
 ###
 
 <div align="center">
@@ -8,6 +6,7 @@
 
 ###
 
+<h2 align="center">Hi. I'm PulseMind 👋!</h2>
 <p align="center">✨ UI/UX Designer & FullStack Developer ✨</p>
 
 ###
