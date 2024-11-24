@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>💻 Experience: I have been programming for over 5 years.<br>⚙️ Tech stack: Skilled in React, Next.js, Remix, Java, Spring Boot, and building Discord bots and mobile apps.<br>🐧 Fun fact: I use Linux daily, specifically Manjaro - it’s my favorite playground!</p>
+<p align="center">🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>💻 Experience: I have been programming for over 6 years.<br>⚙️ Tech stack: Skilled in React, Next.js, Remix, Java, Spring Boot, and building Discord bots and mobile apps.<br>🐧 Fun fact: I use Linux daily, specifically Manjaro - it’s my favorite playground!</p>
 
 ###
 
