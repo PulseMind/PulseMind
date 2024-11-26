@@ -1,13 +1,9 @@
 ###
+<h2 align="center">Hi. I'm PulseMind 👋!</h2>
 
 <div align="center">
   <img src="https://i.imgur.com/VeqRYiP.png"  />
 </div>
-
-###
-
-<h2 align="center">Hi. I'm PulseMind 👋!</h2>
-<p align="center">✨ UI/UX Designer & FullStack Developer ✨</p>
 
 ###
 
