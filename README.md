@@ -2,7 +2,9 @@
 <h2 align="center">Hi. I'm PulseMind 👋!</h2>
 
 <div align="center">
-  <img src="https://i.imgur.com/VeqRYiP.png"  />
+  <a href="https://github.com/PulseMind" target="_blank">
+    <img src="https://i.imgur.com/VeqRYiP.png" />
+  </a>
 </div>
 
 ###
