@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/PulseMind" target="_blank">
-    <img src="https://i.imgur.com/VeqRYiP.png" />
+    <img src="https://pulsemind.pl/image/BANNER.png" />
   </a>
 </div>
 
