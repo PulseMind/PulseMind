@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://pulsemind.pl" target="_blank">
-    <img src="https://pulsemind.pl/image/BRAND.png" width="128" />
+    <img src="https://pulsemind.pl/image/BRAND.png" width="132" />
   </a>
 </div>
 
@@ -55,9 +55,11 @@
 
 ###
 
+###
+
 <div align="center">
   
-  ## ☕ Daily Routine
+  ### ☕ Daily Routine
   { Write code 💻 &rarr;
   Drink coffee ☕ &rarr;
   Debug 🔍 &rarr;
@@ -68,6 +70,7 @@
 
 ###
 
+
 <div align="center">
   
   [![Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.pulsemind.pl)
@@ -77,25 +80,16 @@
 ###
 
 <div align="center">
-
-  ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="35px" /> My private Code OSS (VS Code) Profile <img     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="35px" /> 
-  Settings | Extensions | Theme 🖥️ | **Gist:** [Link to Gist + Step-by-step use Tutorial](https://gist.github.com/PulseMind/1bf125b8d32583d902c55d501bfbea9a) 
-
+  
+  "The best way to predict the future is to create it." – Abraham Lincoln
+  
 </div>
 
-###
-
-<div align="center">
-  <a href="https://pulsemind.pl" target="_blank">
-    <img src="https://pulsemind.pl/image/BANNER.png" />
-  </a>
-</div>
-
-###
+##
 
 <div align="right">
   
-  ## 🎨 My Skills
+  ### 🎨 My Skills
 
   **Languages:** TypeScript, Java, Kotlin, Groovy
 
@@ -103,7 +97,6 @@
 
 </div>
 
-###
 
 ### 🛠️ Recent Projects
 - **[PulseMind-web](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
@@ -114,14 +107,28 @@
 
 <div align="right">
   <a href="https://www.pulsemind.pl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=tokyonight&hide_border=false" height="170" alt="languages graph" />
   </a>
 </div>
 
-###
+##
 
 <div align="center">
-  "The best way to predict the future is to create it." – Abraham Lincoln
+
+  ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="25px" /> My private Code OSS (VS Code) Profile <img     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="25px" /> 
+
+  📥 **GIST &rarr;** [Link to Gist + Step-by-step use Tutorial](https://gist.github.com/PulseMind/1bf125b8d32583d902c55d501bfbea9a) 
+  
+  Settings ⚙️ | Extensions 🧩 | Theme 🖥️
+
+</div>
+
+##
+
+<div align="center">
+  <a href="https://pulsemind.pl" target="_blank">
+    <img src="https://pulsemind.pl/image/BANNER.png" />
+  </a>
 </div>
 
 ###
