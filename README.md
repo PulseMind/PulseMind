@@ -71,8 +71,8 @@
 <div align="right">
   
   ### 🎨 My Skills
-- **Languages:** TypeScript, Java, Kotlin, Groovy
-- **Frameworks:** React, Spring, Remix, Next
+**Languages:** TypeScript, Java, Kotlin, Groovy
+**Frameworks:** React, Spring, Remix, Next
 
 </div>
 
