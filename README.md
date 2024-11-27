@@ -65,21 +65,34 @@
 
 </div>
 
+###
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+  
+  [![Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.pulsemind.pl)
+  
 </div>
 
 ###
 
-
 <div align="center">
 
   ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="35px" /> My private Code OSS (VS Code) Profile <img     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="35px" /> 
-  Settings | Extensions | Theme 🖥️ | **Gist:** [Link to Gist + Step-by-step Tutorial](https://gist.github.com/PulseMind/1bf125b8d32583d902c55d501bfbea9a) 
+  Settings | Extensions | Theme 🖥️ | **Gist:** [Link to Gist + Step-by-step use Tutorial](https://gist.github.com/PulseMind/1bf125b8d32583d902c55d501bfbea9a) 
 
 </div>
 
-<div align="left">
+###
+
+<div align="right">
+  <a href="https://www.pulsemind.pl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  </a>
+</div>
+
+###
+
+<div align="right">
   
   ### 🎨 My Skills
 **Languages:** TypeScript, Java, Kotlin, Groovy
@@ -90,8 +103,8 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  "The best way to predict the future is to create it." – Abraham Lincoln
 </div>
 
 ###
