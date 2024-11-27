@@ -23,6 +23,19 @@
 ###
 
 <div align="center">
+  
+  ### ☕ Daily Routine
+  Write code 💻 ->
+  Drink coffee ☕ ->
+  Debug 🔍 ->
+  Repeat 🔄 ();
+
+  
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -51,7 +64,26 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
 </div>
 
-###
+
+<div align="right">
+  
+  ### 🎨 My Skills
+- **Languages:** TypeScript, Java, Kotlin, Groovy
+- **Frameworks:** React, Spring, Remix, Next
+
+</div>
+
+<div align="left">
+  
+  ### 🛠️ Recent Projects
+- **[PulseMind WEB APP](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
+- **[PulseMind WEB APP](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
+- **[PulseMind WEB APP](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
+</div>
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
