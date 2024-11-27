@@ -63,12 +63,23 @@
 
 ###
 
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
 </div>
 
+###
 
-<div align="right">
+
+<div align="center">
+
+  ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="35px" /> My private Code OSS (VS Code) Profile <img     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="35px" /> 
+  Settings | Extensions | Theme 🖥️ | **Gist:** [Link to Gist + Step-by-step Tutorial](https://gist.github.com/PulseMind/1bf125b8d32583d902c55d501bfbea9a) 
+
+</div>
+
+<div align="left">
   
   ### 🎨 My Skills
 **Languages:** TypeScript, Java, Kotlin, Groovy
@@ -77,14 +88,18 @@
 
 </div>
 
-<div align="left">
-  
-  ### 🛠️ Recent Projects
-- **[PulseMind WEB APP](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
-- **[PulseMind WEB APP](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
-- **[PulseMind WEB APP](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
-</div>
+###
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  
+  ###  Heya 👋🏻! Follow me on GitHub ❣️
+  
+</div>
+
+###
