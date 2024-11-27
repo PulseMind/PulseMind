@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>💻 Experience: I have been programming for over 6 years.<br>⚙️ Tech stack: FullStack Developer<br>🐧 Fun fact: I use Linux daily, specifically Manjaro - it’s my favorite playground!</p>
+<p align="center">🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>⚙️ Tech stack: FullStack Developer<br>💻 Experience: I have been programming for over 6 years.<br>🐧 Fun fact: I use Linux daily, specifically Manjaro - it’s my favorite playground!</p>
 
 ###
 
