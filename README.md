@@ -63,14 +63,31 @@
 
 ###
 
-</div>
-
-###
-
 <div align="center">
   
   [![Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.pulsemind.pl)
   
+</div>
+
+###
+
+<div align="right">
+  
+  ### 🎨 My Skills
+**Languages:** TypeScript, Java, Kotlin, Groovy
+
+**Frameworks:** React, Spring, Remix, Next
+
+</div>
+
+<div align="right">
+  <a href="https://www.pulsemind.pl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  </a>
+</div>
+
+###
+
 </div>
 
 ###
@@ -84,22 +101,9 @@
 
 ###
 
-<div align="right">
-  <a href="https://www.pulsemind.pl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-  </a>
-</div>
-
-###
-
-<div align="right">
-  
-  ### 🎨 My Skills
-**Languages:** TypeScript, Java, Kotlin, Groovy
-
-**Frameworks:** React, Spring, Remix, Next
-
-</div>
+### 🛠️ Recent Projects
+- **[PulseMind-web](https://pulsemind.pl/projects/ai)**: A source code of my official website.
+- **[PulseMind-web](https://pulsemind.pl/projects/ai)**: My official website.
 
 ###
 
