@@ -1,6 +1,4 @@
-###
 <h2 align="center">Hi. I'm PulseMind 👋!</h2>
-
 <div align="center">
   <a href="https://github.com/PulseMind" target="_blank">
     <img src="https://pulsemind.pl/image/BANNER.png" />
@@ -9,7 +7,13 @@
 
 ###
 
-<p align="center">🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>⚙️ Tech stack: FullStack Developer<br>💻 Experience: I have been programming for over 6 years.<br>🐧 Fun fact: I use Linux daily, specifically Manjaro - it’s my favorite playground!</p>
+
+
+<div align="center">
+  <h5>About me</h5> 
+  
+  <p>🌍 Location: I'm from Poland.<br>🪪 Name: My real name is Dominik.<br>⚙️ Tech stack: FullStack Developer<br>💻 Experience: I have been programming for over 6 years.<br>🐧 Fun fact: I use Linux daily, specifically Manjaro - it’s my favorite playground!</p>
+</div>
 
 ###
 
@@ -23,12 +27,18 @@
 ###
 
 <div align="center">
+  "The best way to predict the future is to create it." – Abraham Lincoln
+</div>
+
+###
+
+<div align="center">
   
   ### ☕ Daily Routine
-  Write code 💻 ->
-  Drink coffee ☕ ->
-  Debug 🔍 ->
-  Repeat 🔄 ();
+  { Write code 💻 &rarr;
+  Drink coffee ☕ &rarr;
+  Debug 🔍 &rarr;
+  Repeat 🔄 (); }
 
   
 </div>
@@ -104,12 +114,6 @@
 ### 🛠️ Recent Projects
 - **[PulseMind-web](https://pulsemind.pl/projects/ai)**: A source code of my official website.
 - **[PulseMind-web](https://pulsemind.pl/projects/ai)**: My official website.
-
-###
-
-<div align="center">
-  "The best way to predict the future is to create it." – Abraham Lincoln
-</div>
 
 ###
 
