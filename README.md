@@ -1,13 +1,14 @@
 <h2 align="center">Hi. I'm PulseMind 👋!</h2>
+
+###
+
 <div align="center">
-  <a href="https://github.com/PulseMind" target="_blank">
-    <img src="https://pulsemind.pl/image/BANNER.png" />
+  <a href="https://pulsemind.pl" target="_blank">
+    <img src="https://pulsemind.pl/image/BRAND.png" width="128" />
   </a>
 </div>
 
 ###
-
-
 
 <div align="center">
   <h5>About me</h5> 
@@ -22,25 +23,6 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="center">
-  "The best way to predict the future is to create it." – Abraham Lincoln
-</div>
-
-###
-
-<div align="center">
-  
-  ### ☕ Daily Routine
-  { Write code 💻 &rarr;
-  Drink coffee ☕ &rarr;
-  Debug 🔍 &rarr;
-  Repeat 🔄 (); }
-
-  
 </div>
 
 ###
@@ -75,29 +57,21 @@
 
 <div align="center">
   
+  ## ☕ Daily Routine
+  { Write code 💻 &rarr;
+  Drink coffee ☕ &rarr;
+  Debug 🔍 &rarr;
+  Repeat 🔄 (); }
+
+  
+</div>
+
+###
+
+<div align="center">
+  
   [![Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.pulsemind.pl)
   
-</div>
-
-###
-
-<div align="right">
-  
-  ### 🎨 My Skills
-**Languages:** TypeScript, Java, Kotlin, Groovy
-
-**Frameworks:** React, Spring, Remix, Next
-
-</div>
-
-<div align="right">
-  <a href="https://www.pulsemind.pl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-  </a>
-</div>
-
-###
-
 </div>
 
 ###
@@ -111,9 +85,44 @@
 
 ###
 
+<div align="center">
+  <a href="https://pulsemind.pl" target="_blank">
+    <img src="https://pulsemind.pl/image/BANNER.png" />
+  </a>
+</div>
+
+###
+
+<div align="right">
+  
+  ## 🎨 My Skills
+
+  **Languages:** TypeScript, Java, Kotlin, Groovy
+
+  **Frameworks:** React, Spring, Remix, Next
+
+</div>
+
+###
+
 ### 🛠️ Recent Projects
-- **[PulseMind-web](https://pulsemind.pl/projects/ai)**: A source code of my official website.
-- **[PulseMind-web](https://pulsemind.pl/projects/ai)**: My official website.
+- **[PulseMind-web](https://github.com/PulseMind/pulsemind-web)**: A source code of my official website.
+- **[PulseMind-web](https://github.com/PulseMind/pulsemind-web)**: My official website.
+- **[PulseMind-web](https://github.com/PulseMind/pulsemind-web)**: Web Application created in Remix
+
+###
+
+<div align="right">
+  <a href="https://www.pulsemind.pl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  "The best way to predict the future is to create it." – Abraham Lincoln
+</div>
 
 ###
 
