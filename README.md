@@ -28,6 +28,19 @@
 ###
 
 <div align="center">
+  
+  ### ☕ Daily Routine
+  { Write code 💻 &rarr;
+  Drink coffee ☕ &rarr;
+  Debug 🔍 &rarr;
+  Repeat 🔄 (); }
+
+  
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -53,20 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
 
-###
-
-###
-
-<div align="center">
-  
-  ### ☕ Daily Routine
-  { Write code 💻 &rarr;
-  Drink coffee ☕ &rarr;
-  Debug 🔍 &rarr;
-  Repeat 🔄 (); }
-
-  
-</div>
 
 ###
 
