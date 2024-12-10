@@ -92,8 +92,11 @@
 <div align="right">
   <h2>🎨 My Skills</h2>
 
-**Languages:** TypeScript, Java, Kotlin, Groovy  
- **Frameworks:** React, Spring, Remix, Next
+**Programming Languages:** Java, Kotlin, Groovy, TypeScript
+
+**Programming Frameworks:** React, Next, Remix, Spring, BukkitAPI, Discord JDA
+
+**Linux** Arch, Ubuntu, Debian, Fedora
 
 </div>
 
