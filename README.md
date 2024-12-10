@@ -36,6 +36,17 @@
 </a>
 </div>
 
+<!-- Daily Routine -->
+<div align="center">
+  <h3>☕ Daily Routine</h3>
+  <p>Write code 💻 → Drink coffee ☕ → Debug 🔍 → Repeat 🔄</p>
+</div>
+
+<!-- Coding GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</div>
+
 <!-- Tech Stack -->
 <div align="center">
   <h2>Tech Stack</h2>
@@ -67,17 +78,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="Linux" title="Linux" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="32" alt="Nginx" title="Nginx" />
-</div>
-
-<!-- Daily Routine -->
-<div align="center">
-  <h3>☕ Daily Routine</h3>
-  <p>Write code 💻 → Drink coffee ☕ → Debug 🔍 → Repeat 🔄</p>
-</div>
-
-<!-- Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </div>
 
 <!-- Quote -->
