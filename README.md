@@ -54,7 +54,7 @@
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js" style="drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));" />
 <img width="10" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/remix.svg" height="32" alt="Remix" title="Remix" style="filter: invert(50%) drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));" />
+<img src="https://remix.run/_brand/remix-letter-glowing.png" height="32" alt="Remix" title="Remix" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" title="MySQL" />
 <img width="10" />
