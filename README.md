@@ -107,7 +107,7 @@ Settings ⚙️ | Extensions 🧩 | Theme 🖥️
 
 <!-- Daily Routine -->
 <div align="center">
-  <h3>☕ Daily Routine</h3>
+  <h2>☕ Daily Routine</h2>
   <p>Write code 💻 → Drink coffee ☕ → Debug 🔍 → Repeat 🔄</p>
 </div>
 
