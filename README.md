@@ -52,13 +52,9 @@
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
 <img width="10" />
-<span style="display: inline-block; height: 32px; width: 32px; background: #000; border-radius: 30px; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="NextJS" title="NextJS" style="filter: invert(100%); display: block; margin: auto;" />
-</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js" style="drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));" />
 <img width="10" />
-<span style="display: inline-block; height: 32px; width: 32px; background: #000; border-radius: 8px; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/remix.svg" height="32" alt="Remix" title="Remix" style="filter: invert(100%); display: block; margin: auto;" />
-</span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/remix.svg" height="32" alt="Remix" title="Remix" style="filter: invert(50%) drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" title="MySQL" />
 <img width="10" />
