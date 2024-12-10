@@ -13,7 +13,7 @@
   🪪 Name: My real name is Dominik  
   ⚙️ Tech stack: FullStack Developer  
   💻 Experience: I have been programming for over 6 years  
-  🐧 Fun fact: I use Linux daily, specifically Manjaro - it's my favorite playground!
+  🐧 Fun fact: I use Linux daily, specifically Arch Linux - it's my favorite playground!
   
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PulseMind.PulseMind" alt="Visitor Badge" />
 </div>
@@ -22,18 +22,18 @@
 <div align="center">
   <h2>Connect With Me</h2>
   
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+<a href="https://facebook.com/PulseMindPL" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
+</a>
+<a href="https://youtube.com/@PulseMindPL" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />
+</a>
+<a href="https://instagram.com/PulseMindPL" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/pulsemind/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+</a>
 </div>
 
 <!-- Tech Stack -->
