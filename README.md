@@ -1,3 +1,9 @@
+<div align="center">
+
+## Hi! 😄 I'm PulseMind 👋🏻
+
+</div>
+
 <!-- Hello Banner -->
 <div align="center">
   <a href="https://pulsemind.pl" target="_blank">
@@ -11,7 +17,6 @@
   
   🌍 Location: I'm from Poland  
   🪪 Name: My real name is Dominik  
-  ⚙️ Tech stack: FullStack Developer  
   💻 Experience: I have been programming for over 6 years  
   🐧 Fun fact: I use Linux daily, specifically Arch Linux - it's my favorite playground!
   
@@ -77,9 +82,8 @@
 <!-- Projects -->
 <h2>🛠️ Recent Projects</h2>
 
-- **[PulseMind-app](https://github.com/PulseMind/pulsemind-app)**: A source code of my official website
-- **[PulseMind-app](https://github.com/PulseMind/pulsemind-app)**: My official website
 - **[PulseMind-app](https://github.com/PulseMind/pulsemind-app)**: Web Application created in Remix
+- **[brokenranks-discord-roles](https://github.com/PulseMind/brokenranks-discord-roles)**: A powerful Discord bot that integrates Broken Ranks game professions as roles and allows players to manage them with simple commands.
 
 <!-- Stats -->
 <div align="right">
@@ -119,7 +123,7 @@ Settings ⚙️ | Extensions 🧩 | Theme 🖥️
 
 <!-- Follow Me -->
 <div align="center">
-  <h2>Heya 👋🏻! Follow me on GitHub ❣️</h2>
+  <h2>Follow me on GitHub ❣️</h2>
     <a href="https://pulsemind.pl" target="_blank">
     <img src="https://pulsemind.pl/image/BRAND.png" width="80" alt="PulseMind Brand" />
   </a>
