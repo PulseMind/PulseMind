@@ -1,9 +1,3 @@
-<div align="center">
-
-## Hi! 😄 I'm PulseMind 👋🏻
-
-</div>
-
 <!-- Hello Banner -->
 <div align="center">
   <a href="https://pulsemind.pl" target="_blank">
@@ -25,7 +19,7 @@
 
 <!-- Media -->
 <div align="center">
-  <h2>Connect With Me</h2>
+  <h2>Connect With Me 👋🏻</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/PulseMindPL)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@PulseMindPL)
