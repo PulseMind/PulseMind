@@ -82,18 +82,8 @@
 <!-- Stats -->
 <div align="right">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=tokyonight&hide_border=false" height="130" alt="Languages Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PulseMind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="135" alt="Languages Graph" />
   </a>
-</div>
-
-<!-- Code OSS Configuration -->
-<div align="center">
-  <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="18" /> My Private Code OSS (VS Code) Profile</h2>
-
-📥 **GIST →** [Link to Gist + Step-by-step use Tutorial](https://gist.github.com/PulseMind/1bf125b8d32583d902c55d501bfbea9a)
-
-Settings ⚙️ | Extensions 🧩 | Theme 🖥️
-
 </div>
 
 <!-- Daily Routine -->
@@ -113,6 +103,16 @@ Settings ⚙️ | Extensions 🧩 | Theme 🖥️
     <p>"The best way to predict the future is to create it."</p>
     <footer>– Abraham Lincoln</footer>
   </blockquote>
+</div>
+
+<!-- Code OSS Configuration -->
+<div align="center">
+  <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="18" /> My Private Code OSS (VS Code) Profile</h2>
+
+📥 **GIST →** [Link to Gist + Step-by-step use Tutorial](https://gist.github.com/PulseMind/1bf125b8d32583d902c55d501bfbea9a)
+
+Settings ⚙️ | Extensions 🧩 | Theme 🖥️
+
 </div>
 
 <!-- Follow Me -->
