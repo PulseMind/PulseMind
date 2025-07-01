@@ -12,7 +12,7 @@
   🌍 Location: I'm from Poland  
   🪪 Name: My real name is Dominik  
   💻 Experience: I have been programming for over 6 years  
-  🐧 Fun fact: I use Linux daily, specifically Arch Linux - it's my favorite playground!
+  🐧 Fun fact: I use Linux daily, specifically CachyOS Hyprland (based on Arch) - it's my favorite playground!
   
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PulseMind.PulseMind" alt="Visitor Badge" />
 </div>
